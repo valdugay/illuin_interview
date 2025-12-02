@@ -1,3 +1,13 @@
 .venv/
 
 *_pycache__/
+
+.env
+
+.DS_Store
+**/.DS_Store
+
+new_samples/
+
+
+multi_encoder_model.pt
